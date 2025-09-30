@@ -70,11 +70,15 @@ This project allows customers to book hotel rooms, generate booking confirmation
 - Maven
 - MySQL
 - Git
+  
+---
 
 ### Clone the Repository
 
 git clone https://github.com/sourabh500/Hotel-booking-system.git
 cd Hotel-booking-system
+
+---
 
 ## 🔮 Future Enhancements
 
@@ -83,6 +87,8 @@ cd Hotel-booking-system
 - Customer reviews & ratings
 - Mobile application integration
 - Analytics dashboard for bookings and revenue
+
+---
 
 ## 👨‍💻 Author
 
