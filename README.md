@@ -72,7 +72,7 @@ This project allows customers to book hotel rooms, generate booking confirmation
 - Git
 
 ### Clone the Repository
-```bash
+
 git clone https://github.com/sourabh500/Hotel-booking-system.git
 cd Hotel-booking-system
 
