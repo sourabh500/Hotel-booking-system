@@ -75,3 +75,15 @@ This project allows customers to book hotel rooms, generate booking confirmation
 ```bash
 git clone https://github.com/sourabh500/Hotel-booking-system.git
 cd Hotel-booking-system
+
+## 🔮 Future Enhancements
+
+- Add payment gateway integration
+- Dynamic room pricing based on season
+- Customer reviews & ratings
+- Mobile application integration
+- Analytics dashboard for bookings and revenue
+
+## 👨‍💻 Author
+
+Sourabh Shukla – Backend Developer
